@@ -1,7 +1,4 @@
 # SecureAES
-
-
-# MemoryManipulator
 A C# library used to encrypt files with AES-256.
 
 
