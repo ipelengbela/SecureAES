@@ -4,6 +4,13 @@ A C# library used to encrypt files with AES-256.
 
 //TODO - Complete this section.
 
+# Download
+The Latest Releases can always be found at either:
+
+http://github.com/mullak99/SecureAES/releases/latest
+
+http://builds.mullak99.co.uk/SecureAES/latest
+
 # Usage
 
 - Add the library as a referance to your project
